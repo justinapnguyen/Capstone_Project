@@ -1,9 +1,9 @@
 Would you buy their drugs?
 ----------------------------
 
-We are interested in performing some NLP and sentiment analysis on reviews for weight loss treatment drugs. We want to analyze public sentiment surrounding Ozempic, a semaglutide drug initially developed for type 2 diabetes but also used off-label for weight loss. Our analysis provides valuable insights into public opinions and attitudes towards the drug, helping healthcare professionals and stakeholders make informed decisions.
+I am interested in performing some NLP and sentiment analysis on reviews for weight loss treatment drugs. I want to analyze public sentiment surrounding Ozempic, a semaglutide drug initially developed for type 2 diabetes but also used off-label for weight loss. My analysis provides valuable insights into public opinions and attitudes towards the drug, helping healthcare professionals and stakeholders make informed decisions.
 
-There are currently six FDA-approved weight loss drugs on the market. We will be looking at five of them because the last drug, **setmelanotide (Imcivree)** is specifically approved for people with a certain rare genetic disorder. The drugs used for comparison are bupropion-naltrexone (Contrave), liraglutide (Saxenda), orlistat (Xenical, Alli), phentermine-topiramate (Qsymia), and semaglutide (Wegovy).
+There are currently six FDA-approved weight loss drugs on the market.I will be looking at five of them because the last drug, **setmelanotide (Imcivree)** is specifically approved for people with a certain rare genetic disorder. The drugs used for comparison are bupropion-naltrexone (Contrave), liraglutide (Saxenda), orlistat (Xenical, Alli), phentermine-topiramate (Qsymia), and semaglutide (Wegovy).
 
 Table of Contents
 -----------------
