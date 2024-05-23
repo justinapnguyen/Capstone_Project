@@ -1,4 +1,4 @@
-Would you buy their drugs?
+Exploring Public Sentiment: How is Ozempic viewed?
 ----------------------------
 
 I am interested in performing some NLP and sentiment analysis on reviews for weight loss treatment drugs. I want to analyze public sentiment surrounding Ozempic, a semaglutide drug initially developed for type 2 diabetes but also used off-label for weight loss. My analysis provides valuable insights into public opinions and attitudes towards the drug, helping healthcare professionals and stakeholders make informed decisions.
